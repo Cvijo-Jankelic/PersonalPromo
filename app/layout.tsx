@@ -7,7 +7,7 @@ import "./globals.css"
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Cvijo Jankelić — Java / JavaFX Developer",
+  title: "Cvijo Jankelic — Software Developer",
   description: "Secure desktop & backend systems: auth, crypto, DB, concurrency. Building CyberShield IDS and more.",
   icons: {
     icon: [
