@@ -20,7 +20,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="text-white font-semibold text-lg tracking-tight">
-            Cvijo Jankelić
+            Cvijo Jankelic
           </a>
 
           {/* Desktop Navigation */}
